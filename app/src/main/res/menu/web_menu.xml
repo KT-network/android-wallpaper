@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/ic_baseline_refresh_24"
+        android:title="刷新"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/open_browser"
+        android:icon="@drawable/ic_open_in_browser"
+        android:title="使用浏览器打开"
+        app:showAsAction="ifRoom"/>
+
+</menu>

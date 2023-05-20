@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">简壁纸</string>
+
+
+    <string name="ToolbarTitle">简壁纸（...）beta</string>
+    <string name="settingName">简壁纸（...）4.0 beta</string>
+    <string name="ToolbarSubTitle">花有重开日，人无在少年</string>
+    <string name="copyright">Copyright ©2017-2022 KT_network.</string>
+
+    <string name="saveSucceed">已保存到</string>
+    <string name="saveError">保存失败</string>
+
+    <string name="setWallSucceed">设置成功</string>
+    <string name="setWallError">设置失败</string>
+
+
+</resources>

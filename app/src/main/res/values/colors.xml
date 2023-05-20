@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="white1">#F6F6F6</color>
+
+    <color name="black">#000000</color>
+    <color name="minorGray">#DADADA</color>
+    <color name="gray">#FFAAAAAA</color>
+    <color name="IconGray">#8A8888</color>
+
+    <color name="blue">#ff81d4fa</color>
+
+    <color name="red">#E53935</color>
+
+
+
+    <color name="LightTopBackgroung">#ffffff</color>
+    <color name="LightBottomBackgroung">#ffefeff7</color>
+    <color name="LightMajorColour">#ffffff</color>
+    <color name="LightTextMajorColour">#212121</color>
+    <color name="LightTextMinorColour">#ff939393</color>
+
+
+
+    <color name="NightTopBackgroung">#ff141414</color>
+    <color name="NightBottomBackgroung">#ff2a2a2b</color>
+    <color name="NightMajorColour">#ff141414</color>
+    <color name="NightTextMajorColour">#EEEEEE</color>
+    <color name="NightTextMinorColour">#BDBDBD</color>
+
+
+
+</resources>
